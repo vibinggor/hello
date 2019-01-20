@@ -1,7 +1,10 @@
-# @Date    : 2018-07-24 01:35:36
-# @Author  : mop (you@example.org)
-# @Link    : http://example.org
-# @Version : V10
+/**
+ * @file main.cpp
+ * @brief main function
+ * @author Bing, vibinggor@outlook.com
+ * @version V1.1
+ * @date 2019-01-20
+ */
 
 #include <ostream>
 #include <unistd.h>
